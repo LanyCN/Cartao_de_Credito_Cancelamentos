@@ -11,3 +11,13 @@ Passo 2: Visualizar e tratar essa base de dados
 Passo 3: Verificar discrepâncias e dados não relevantes na base de dados
 Passo 4: Construir uma análise para identificar o motivo de cancelamento
 Passo 5: Identificar quais os principais motivos dos clientes estarem cancelando o cartão de crédito
+
+Total de 10.126 cliente analisados, sendo que:
+16% dos cliente cancelaram no total
+17% são mulheres e 21% são homens
+93% dos cancelamentos são da categoria Blue
+
+Informações relevantes observadas na análise:
+- Observa-se que quanto mais produtos contratados um cliente tem, menor é a chance de cancelamento
+- Quanto maior o valor da transação, menor a chance de cancelamento
+- Quanto maior a quantidade de contatos que a pessoa teve que fazer, maior é a chance de cancelamento
